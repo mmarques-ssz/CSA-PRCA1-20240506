@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\Lista2Ex7b\Lista2Ex7b\bin\Debug\Lista2Ex7b.exe.config
+C:\Users\aluno\source\repos\Lista2Ex7b\Lista2Ex7b\bin\Debug\Lista2Ex7b.exe
+C:\Users\aluno\source\repos\Lista2Ex7b\Lista2Ex7b\bin\Debug\Lista2Ex7b.pdb
+C:\Users\aluno\source\repos\Lista2Ex7b\Lista2Ex7b\obj\Debug\Lista2Ex7b.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Lista2Ex7b\Lista2Ex7b\obj\Debug\Lista2Ex7b.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\Lista2Ex7b\Lista2Ex7b\obj\Debug\Lista2Ex7b.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Lista2Ex7b\Lista2Ex7b\obj\Debug\Lista2Ex7b.exe
+C:\Users\aluno\source\repos\Lista2Ex7b\Lista2Ex7b\obj\Debug\Lista2Ex7b.pdb
